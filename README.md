@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 **在学习的：**
 
-- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=flat) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net)
-- .Net
+- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=flat) ![.NET Core](https://img.shields.io/badge/.NET Core-5C2D91?style=flat&logo=.net)
 - .Net Core
 - .Asp.Net Core
 - Nginx
