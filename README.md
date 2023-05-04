@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - [![Windows Server](https://img.shields.io/badge/WindowsServer-blue?style=flat&logo=windows)](https://www.microsoft.com/en-us/windows-server) [![Visual studio](https://img.shields.io/badge/VisualStudio-purple?style=flat&logo=visualstudio)](https://visualstudio.microsoft.com/zh-hans/)
 
-**在看的书籍**
+**在看的书籍：**
 - 《C#高级编程（第11版）》
 - 《Nginx经典教程》
 - 《Nginx完全指南》
