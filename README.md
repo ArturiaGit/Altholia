@@ -14,4 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-这里是Arturia哦，欢迎来到我的博客呀！我是一名实力不济却向往当后端大牛的废柴，目前使用的语言是C#和一些流行的框架，例如.Net、.Net Core和ASP.Net Core，并在Windows Server上托管我的应用程序，致力于研究的方向是WebAPI、Nginx和Linux等后端技术。
+
+我是Arturia，一名实力不济却向往当后端大牛的废柴。目前，我主要使用C#和一些流行的框架，例如.Net、.Net Core和ASP.Net Core。我的应用程序托管在Windows Server上，致力于研究WebAPI、Nginx和Linux等后端技术。
+
+**在学习的：**
+
+- C#
+- .Net
+- .Net Core
+- .Asp.Net Core
+- Nginx
+- Linux
+- Redis
+- git
+
+**在使用的：**
+
+- C#
+- .Net
+- .Net Core
+- ASP.Net Core
+- Windows Server
+- WebAPI
+
+欢迎来我的 [GitHub](https://github.com/Altholia) 逛逛（虽然目前还没什么东西，哎嘿），如果您有什么问题或建议，欢迎联系我。
+
