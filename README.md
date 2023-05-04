@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **在学习的：**
 
-- [C#](https://img.shields.io/github/gist/stars/C#?style=social)
+- [C#](https://img.shields.io/github/gist/stars/C#?color=green&label=C%23&logo=C%23&logoColor=green&style=social)
 - .Net
 - .Net Core
 - .Asp.Net Core
