@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 **社交账号：**
 - [![QQ](https://img.shields.io/badge/QQ-1850181035-lightgrey?style=flat-square&logo=Tencent%20QQ&logoColor=white&labelColor=EB1923)]()
 
-欢迎来我的 [GitHub](https://github.com/Altholia) [博客](https://arturia.cn) 和逛逛（虽然目前还没什么东西，哎嘿），如果您有什么问题或建议，欢迎联系我。
+欢迎来我的 [GitHub](https://github.com/Altholia) 和 [博客](https://arturia.cn) 逛逛（虽然目前还没什么东西，哎嘿），如果您有什么问题或建议，欢迎联系我。
 
