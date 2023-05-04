@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 - [![Windows Server](https://img.shields.io/badge/WindowsServer-blue?style=flat&logo=windows)](https://www.microsoft.com/en-us/windows-server) [![Visual studio](https://img.shields.io/badge/VisualStudio-purple?style=flat&logo=visualstudio)](https://visualstudio.microsoft.com/zh-hans/)
 
-欢迎来我的 [GitHub](https://github.com/Altholia) 逛逛（虽然目前还没什么东西，哎嘿），如果您有什么问题或建议，欢迎联系我。
-同样也欢迎来我的[博客](https://arturia.cn)逛逛
+**社交账号：**
+- [![QQ：1850181035](https://img.shields.io/badge?style=flat&logo=QQ)]
+
+欢迎来我的 [GitHub](https://github.com/Altholia) [博客](https://arturia.cn) 和逛逛（虽然目前还没什么东西，哎嘿），如果您有什么问题或建议，欢迎联系我。
 
