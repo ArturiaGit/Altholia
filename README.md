@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 - WebAPI
 
 欢迎来我的 [GitHub](https://github.com/Altholia) 逛逛（虽然目前还没什么东西，哎嘿），如果您有什么问题或建议，欢迎联系我。
+同样也欢迎来我的[博客](https://arturia.cn)逛逛
 
