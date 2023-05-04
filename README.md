@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我是Arturia，一名实力不济却向往当后端大牛的废柴。目前，我主要使用C#和一些流行的框架，例如.Net、.Net Core和ASP.Net Core。我的应用程序托管在Windows Server上，致力于研究WebAPI、Nginx和Linux等后端技术。
+我是Arturia，一名实力不济却向往当后端大牛的废柴。目前，我主要使用C#和一些流行的框架，例如.Net、.Net Core、Entity Framework和ASP.Net Core。我的应用程序托管在Windows Server上，致力于研究WebAPI、Nginx和Linux等后端技术。
 
 **在学习的：**
 
